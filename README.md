@@ -1,1 +1,2 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/6yV0VX07)
+
+Creates a game where you control pacman with the arrow keys, and try to get a cherry. Once you get the cherry, it disappears and the pacman sprite becomes red. Currently, the function to make a new cherry spawn isn't working. The distance function is used to detect the collision between the two sprites.
